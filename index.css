@@ -1,0 +1,12 @@
+.saludoCss{
+    opacity: 0;
+    transition-property: opacity;
+    transition-duration: 1s;
+
+}
+
+.mostrarSaludo {
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 2s;
+}
